@@ -5,7 +5,7 @@ import './ListingItem.css';
 function ListingItem() {
     return (
         <div className="listing-item">
-            <img className="listing-img" src="https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt='picgit ' />
+            <img className="listing-img" src="https://images.pexels.com/photos/4792285/pexels-photo-4792285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt='picgit ' />
             <div className="listing-details">
                 <div className="listing-categories">
                     <span className="listing-category">Buy</span>
@@ -21,3 +21,9 @@ function ListingItem() {
 }
 
 export default ListingItem
+
+
+
+// Student Name: Ademola Jegede,
+// Student ID: 2122998,
+// course: Web Technologies

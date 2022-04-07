@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./components/Header/Header";
+// import Header from "./components/Header/Header";
 import Home from "./components/Home/Home";
 // import ListingItem from "./components/Listing-item/ListingItem";
 // import Listing from "./components/Listing/Listing";
