@@ -1,3 +1,5 @@
+/* Listing-item components CSS styling*/
+
 .listing-item{
     width: 250px;
     margin: 0px 25px 40px 25px;/*top right bottom left*/
@@ -41,3 +43,8 @@
     -webkit-line-clamp: 4;/*show only 5 lines after that show ...*/
     -webkit-box-orient: vertical;
 }
+
+/* 
+// Student Name: Ademola Jegede,
+// Student ID: 2122998,
+// course: Web Technologies */
