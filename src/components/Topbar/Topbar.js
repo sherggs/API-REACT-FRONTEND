@@ -1,8 +1,8 @@
 import React from 'react';
-import './Header.css'
+import './Topbar.css'
 
 //React component returns JSX kind on markup
-function Header() {
+function Topbar() {
     return (
         <div className="topbar">
             <div className="topbar-left">
@@ -25,4 +25,12 @@ function Header() {
     )
 }
 
-export default Header
+export default Topbar
+
+
+
+
+
+// Student Name: Ademola Jegede,
+// Student ID: 2122998,
+// course: Web Technologies
